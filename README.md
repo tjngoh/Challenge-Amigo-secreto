@@ -26,7 +26,14 @@ Acesse a aplicação online: [Click Aqui](https://tjngoh.github.io/Challenge-Ami
 
 ---
 
-[Assista à demonstração do projeto](assets/Gravação de Tela 2025-08-15 191810.mp4)
+## Demonstração
+
+Clique na imagem abaixo para assistir à demonstração do projeto:
+
+[![Demonstração do Projeto](vdprojeto.mp4)]
+
+> Obs: `thumb.png` é uma miniatura que você pode criar a partir do vídeo. Se não tiver, pode substituir por qualquer imagem representativa.
+
 
 ---
 
