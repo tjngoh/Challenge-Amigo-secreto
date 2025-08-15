@@ -26,6 +26,10 @@ Acesse a aplicação online: [Click Aqui](https://tjngoh.github.io/Challenge-Ami
 
 ---
 
+[Assista à demonstração do projeto](assets/Gravação de Tela 2025-08-15 191810.mp4)
+
+---
+
 ## Como Executar Localmente
 Clone o repositório e abra no navegador:
 
