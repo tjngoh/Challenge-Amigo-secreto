@@ -7,7 +7,6 @@
 ## Visão Geral
 O **Desafio Amigo Secreto** é um aplicativo web que automatiza o sorteio de Amigo Secreto, oferecendo uma solução prática, segura e eficiente para grupos de amigos, familiares ou colegas de trabalho. O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript puro**, com foco em usabilidade e experiência do usuário.
 
-Acesse a aplicação online: [Click Aqui](https://tjngoh.github.io/Challenge-Amigo-secreto/)
 
 ---
 
